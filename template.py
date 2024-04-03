@@ -5,14 +5,17 @@ import logging
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]:%(message)s')
 
 list_of_files=[
+    "src/components/__init__.py",
+    "src/components/data_ingestion.py",
+    "src/components/data_transformation.py",
+    "src/components/model_trainer.py",
+    "src/pipeline/__init__.py",
+    "src/pipeline/predict_pipeline.py",
+    "src/pipeline/train_pipeline.py",
     "src/__init__.py",
-    "src/helper.py",
-    "src/prompt.py",
-    ".env",
-    "setup.py",
-    "researcher/trail.py",
-    "app.py",
-    "store_index.py",
+    "src/logger.py",
+    "src/exception.py",
+    "src/utils.py",
     "static/style.css",
     "templates/index.html",
 
