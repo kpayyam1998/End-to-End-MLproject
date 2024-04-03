@@ -26,3 +26,6 @@ logging.basicConfig(
     level=logging.INFO # this line going to write my exitre msg
 
 )
+
+if __name__=="__main__":
+    logging.info("Logging started...")
