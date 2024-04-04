@@ -17,3 +17,6 @@
 
     * exception.py
     * logger.py
+
+# Model 
+    * build model in notebook for research purpose
