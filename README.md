@@ -9,7 +9,7 @@
     * this will automaticlly call setup.py and install all files b
     * once installed one folder which means packages all installed
 
-# Template.py
+# Template
 
     * run template file to create automate project structure
 
@@ -20,3 +20,6 @@
 
 # Model 
     * build model in notebook for research purpose
+
+# DataIngestion 
+    * Build data ingestion part
